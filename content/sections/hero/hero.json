@@ -1,0 +1,22 @@
+{
+  "intro": "Hi",
+  "heroPhoto": {
+    "src": "https://avatars.githubusercontent.com/u/8559121?v=4",
+    "alt": "Profile Picture"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Prarup Gurung",
+  "subtitle": {
+    "prefix": "A Full-time ",
+    "highlight": "Software Developer",
+    "suffix": ", and Part-time Lecturer."
+  },
+  "description": "Passionate about coding, teaching, and exploring the realms of technology. Also, I enjoy gaming and traveling. Let's innovate together!",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

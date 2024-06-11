@@ -1,0 +1,38 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://prarupgurung.netlify.app/",
+    "title": "",
+    "titleTemplate": "",
+    "description": "",
+    "author": "Prarup Gurung",
+    "avatar": "PG",
+    "bio": "",
+    "social": {
+      "github": "https://github.com/grgprarup",
+      "linkedin": "https://www.linkedin.com/in/prarupgurung/",
+      "mail": "mailto:grgprarup@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Home" },
+    "navigation": {
+      "header": [
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Blog", "url": "https://dev.to/grgprarup"}
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
