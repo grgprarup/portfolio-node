@@ -6,7 +6,7 @@
       "description": "A REST API for inventory system build with Flask and Python.",
       "tags": ["REST", "API", "Flask", "Python"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/rest-api.jpg",
         "alt": "Stationery Shop API"
       },
       "links": [
@@ -22,7 +22,7 @@
       "description": "A Flutter Application for inventory system.",
       "tags": ["Mobile Application", "Android", "Flutter", "Dart"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/flutter-app.jpg",
         "alt": "Stationery Shop"
       },
       "links": [

@@ -109,6 +109,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 8
   }
 }

@@ -1,25 +1,48 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://prarupgurung.netlify.app/",
+    "siteUrl": "https://prarupgurung.com.np/",
+    "thumbnail": "",
     "title": "",
-    "titleTemplate": "",
-    "description": "",
+    "titleTemplate": "%s | Prarup Gurung",
+    "description": "Portfolio of Prarup Gurung",
     "author": "Prarup Gurung",
-    "avatar": "PG",
-    "bio": "",
+    "avatar": "./images/profile.jpeg",
+    "bio": "Software Developer",
     "social": {
       "github": "https://github.com/grgprarup",
       "linkedin": "https://www.linkedin.com/in/prarupgurung/",
-      "mail": "mailto:grgprarup@gmail.com"
+      "devto": "https://dev.to/grgprarup",
+      "mail": "mailto:grgprarup@gmail.com",
+      "behance": "",
+      "buymeacoffee": "",
+      "discord": "",
+      "dribble": "",
+      "gitlab": "",
+      "goodreads": "",
+      "hashnode": "",
+      "instagram": "",
+      "mastodon": "",
+      "medium": "",
+      "twitter": "",
+      "twitch": "",
+      "patreon": "",
+      "reddit": "",
+      "untappd": "",
+      "stackoverflow": "",
+      "youtube": ""
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Home" },
+    "logo": {
+      "text": "Home",
+      "image": "",
+      "imageDark": ""
+    },
     "navigation": {
       "header": [
         { "label": "Projects", "url": "/#projects" },
-        { "label": "Blog", "url": "https://dev.to/grgprarup"}
+        { "label": "Blog", "url": "/blog"}
       ],
       "ctaButton": {
         "openNewTab": true,
