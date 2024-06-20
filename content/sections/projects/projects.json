@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "title": "\uD83D\uDD27 REST API",
+      "description": "A REST API for inventory system build with Flask and Python.",
+      "tags": ["REST", "API", "Flask", "Python"],
+      "image": {
+        "src": "../../images/rest-api.jpg",
+        "alt": "Stationery Shop API"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/grgprarup/stationery_shop_api"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "\uD83D\uDCF1 Flutter Application",
+      "description": "A Flutter Application for inventory system.",
+      "tags": ["Mobile Application", "Android", "Flutter", "Dart"],
+      "image": {
+        "src": "../../images/flutter-app.jpg",
+        "alt": "Stationery Shop"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/grgprarup/stationery_shop"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/grgprarup"
+  }
+}

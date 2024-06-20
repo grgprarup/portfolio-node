@@ -1,0 +1,61 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://prarupgurung.com.np/",
+    "thumbnail": "",
+    "title": "",
+    "titleTemplate": "%s | Prarup Gurung",
+    "description": "Portfolio of Prarup Gurung",
+    "author": "Prarup Gurung",
+    "avatar": "./images/profile.jpeg",
+    "bio": "Software Developer",
+    "social": {
+      "github": "https://github.com/grgprarup",
+      "linkedin": "https://www.linkedin.com/in/prarupgurung/",
+      "devto": "https://dev.to/grgprarup",
+      "mail": "mailto:grgprarup@gmail.com",
+      "behance": "",
+      "buymeacoffee": "",
+      "discord": "",
+      "dribble": "",
+      "gitlab": "",
+      "goodreads": "",
+      "hashnode": "",
+      "instagram": "",
+      "mastodon": "",
+      "medium": "",
+      "twitter": "",
+      "twitch": "",
+      "patreon": "",
+      "reddit": "",
+      "untappd": "",
+      "stackoverflow": "",
+      "youtube": ""
+    }
+  },
+  "siteConfiguration": {
+    "logo": {
+      "text": "Home",
+      "image": "",
+      "imageDark": ""
+    },
+    "navigation": {
+      "header": [
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Blog", "url": "/blog"}
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

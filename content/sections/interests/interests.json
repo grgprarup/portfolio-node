@@ -1,0 +1,114 @@
+{
+  "interests": [
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python.png",
+        "alt": "python"
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": "javascript"
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/typescript.png",
+        "alt": "typescript"
+      }
+    },
+    {
+      "label": "MySQL",
+      "image": {
+        "src": "../../images/mysql.png",
+        "alt": "mysql"
+      }
+    },
+    {
+      "label": "SQL Server",
+      "image": {
+        "src": "../../images/sqlserver.png",
+        "alt": "sqlserver"
+      }
+    },
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/html.png",
+        "alt": "html"
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/css.png",
+        "alt": "css"
+      }
+    },
+    {
+      "label": "Django",
+      "image": {
+        "src": "../../images/django.png",
+        "alt": "django"
+      }
+    },
+    {
+      "label": "Flask",
+      "image": {
+        "src": "../../images/flask.png",
+        "alt": "flask"
+      }
+    },
+    {
+      "label": "Playwright",
+      "image": {
+        "src": "../../images/playwright.png",
+        "alt": "playwright"
+      }
+    },
+    {
+      "label": "Test Automation",
+      "image": {
+        "src": "../../images/testautomation.png",
+        "alt": "testautomation"
+      }
+    },
+    {
+      "label": "Mobile Testing",
+      "image": {
+        "src": "../../images/mobiletesting.png",
+        "alt": "mobiletesting"
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": "git"
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/docker.png",
+        "alt": "docker"
+      }
+    },
+    {
+      "label": "Drone CI",
+      "image": {
+        "src": "../../images/droneci.png",
+        "alt": "droneci"
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 8
+  }
+}
