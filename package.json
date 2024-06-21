@@ -12,10 +12,10 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "gatsby": "^5.0.1",
-    "gatsby-theme-portfolio-minimal": "latest",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "gatsby": "^5.13.6",
+    "gatsby-theme-portfolio-minimal": "^4.6.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "author": "Prarup Gurung",
   "license": "0BSD",
