@@ -3,12 +3,13 @@ title: "Go Basics - The Starting Point"
 description: ""
 date: "2022-12-06"
 banner:
-  src: "../images/go-basics-banner.jpeg"
+  src: "../images/go-basics/go-basics-banner.jpeg"
   alt: "Go Basics"
   caption: 'Photo by <u><a href="https://reneefrench.blogspot.com/">Renee French</a></u>'
 categories:
   - "Setup"
   - "Tutorial"
+  - "Programming"
 keywords:
   - "golang"
   - "go"
@@ -91,7 +92,7 @@ To verify the installation, you can run the following command to check the versi
 go version
 ```
 
-![image](../images/go-version.png "Go Version Check")
+![image](../images/go-basics/go-version.png "Go Version Check")
 You can see the version of Go as shown in the image. Here, the version of Go is 1.19.4.
 
 ### Initializing a Go Project
@@ -104,7 +105,7 @@ directory. The `go.mod` file contains information about the project and its depe
 go mod init go-basics
 ```
 
-![image](../images/go-mod-init.png "Go Project Initialization")
+![image](../images/go-basics/go-mod-init.png "Go Project Initialization")
 
 ### Running the Program
 
